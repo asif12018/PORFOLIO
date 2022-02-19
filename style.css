@@ -1,0 +1,23 @@
+h1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    height: 350px;
+    width: auto;
+}
+
+.name-highlight{
+  color: orangered
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Rajdhani:wght@400;500;600;700&display=swap');
